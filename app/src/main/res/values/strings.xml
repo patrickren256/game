@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Game</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="username">Username</string>
+    <string name="submit">Submit</string>
+    <string name="savefile">/users.csv</string>
+    <string name="back">back</string>
+    <string name="player_2_0">player_2_0</string>
+    <string name="rock_paper_scissors">Rock paper scissors</string>
+    <string name="change_language">change language</string>
+    <string name="game">Game</string>
+    <string name="settings">Settings</string>
+    <string name="tictactoe">Tic Tac Toe</string>
+    <string name="how_to_play">How To Play</string>
+    <string name="leaderboard">leaderboard</string>
+    <string name="versus">versus</string>
+    <string name="practice">Practice</string>
+    <string name="game_title">Game title</string>
+    <string name="description">Description.</string>
+    <string name="runnerstart">RunnerStart</string>
+    <string name="room_escape">Room Escape</string>
+    <string name="memory_game">Memory Game</string>
+    <string name="results">Results</string>
+    <string name="shop">SHOP</string>
+    <string name="buy">BUY</string>
+    <string name="reset_default">Reset Default</string>
+    <string name="textview">TextView</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="delete_save_file">Delete save file</string>
+    <string name="edit_name">Edit Name</string>
+</resources>

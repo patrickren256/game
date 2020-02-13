@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jeux</string>
+    <string name="back">retour</string>
+    <string name="change_language">changer la langue</string>
+    <string name="first_name">Prénom</string>
+    <string name="game">"Jeux"</string>
+    <string name="last_name">nom de famille</string>
+    <string name="log_in">connexion</string>
+    <string name="sign_up">s\'inscrire</string>
+    <string name="submit">"soumettre"</string>
+    <string name="username">nom d\'utilisateur</string>
+    <string name="savefile">users.csv</string>
+    <string name="rock_paper_scissors">Roche-papier-ciseaux</string>
+    <string name="player_2_0">joueur 2</string>
+    <string name="settings">paramètres</string>
+    <string name="tictactoe">" Morpion"</string>
+    <string name="description">Description.</string>
+    <string name="game_title">Titre de Jeux</string>
+    <string name="how_to_play">Comment Jouer</string>
+    <string name="leaderboard">classement</string>
+    <string name="practice">Pratiquer</string>
+    <string name="versus">contre</string>
+    <string name="delete_save_file">supprimer le fichier</string>
+    <string name="reset_default">" réinitialiser à défaut"</string>
+    <string name="memory_game">" Jeux de mémoire"</string>
+    <string name="results">" résultats"</string>
+    <string name="room_escape">évasion</string>
+    <string name="runnerstart">" départ du coureur"</string>
+    <string name="shop">magasin</string>
+    <string name="textview">TeztView</string>
+    <string name="buy">acheter</string>
+    <string name="edit_name">modifier le nom</string>
+    <string name="delete">supprimer</string>
+    <string name="edit">éditer</string>
+</resources>
